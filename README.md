@@ -12,7 +12,7 @@ code .
 
 ### 2. Replace Required Files
 Replace the following files with your own:
-- `input.xlsx` (Replace it with your own Excel file)
+- `input.xlsx` (Replace it with your own Excel file and make sure that column name is same as that is used in script.py)
 - `Resume.pdf` (Replace it with your own resume PDF)
 
 ### 3. Replace Gmail ID
